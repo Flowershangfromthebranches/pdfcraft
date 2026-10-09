@@ -77,4 +77,4 @@ family (`sign`, `sign_with_timestamp`, `timestamp_document`, `embed_ltv`).
   that API stays frozen while M2 replaces what is behind it.
 - Performance budgets (`misc.performance-budgets`) are not set or enforced.
 - Some shipped features are still reachable only from the UI, not through an `automation` tool;
-  `cargo xtask parity` lists them, and closing that gap is D4 in `docs/plan/execution-plan.md`.
+  `cargo xtask parity` lists them; closing that gap is tracked in the execution plan (D4).
